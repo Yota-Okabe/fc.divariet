@@ -1,0 +1,105 @@
+.title {
+    font-size: 7rem;
+    font-family: 'Comfortaa', 'cursive';
+    font-family: 'Fredoka', 'sans-serif';
+    font-family: 'Lato', 'sans-serif';
+    font-family: 'Noto Serif JP', 'serif';
+    font-family: 'Philosopher', 'sans-serif';
+    filter: drop-shadow(10px 10px 5px #fff33f);
+}
+
+.hero-p {
+    line-height: 1.7;
+    font-size: 2rem;
+    color: whitesmoke;
+    filter: drop-shadow(10px 10px 5px skyblue);
+    font-weight: bold;
+}
+
+/* .container {
+    overflow: auto;
+    scroll-snap-type: y mandatory;
+    height: 100vh;
+} */
+section {
+    height: 100vh;
+    scroll-snap-align: start;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.top {
+    background-image: repeating-linear-gradient(0deg, transparent, transparent 4px, rgba(255,255,255,.4) 4px, rgba(255,255,255,.4) 6px ), url(../parts/top.jpeg);
+    text-align: center;
+}
+
+h1 {
+    font-size: 38px;
+    color: #555;
+    filter: drop-shadow(10px 10px 5px #fff33f);
+}
+h2 {
+    font-size: 28px;
+    color: #555;
+    filter: drop-shadow(10px 10px 5px skyblue);
+}
+
+p {
+    font-size: 16px;
+    color: #555;
+}
+.about-contents {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+}
+.contents-left img{
+    height: 300px;
+}
+.contents-right {
+    margin-left: 50px;
+}
+.contents-right h2 {
+    margin-bottom: 30px;
+}
+.cards {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    border: 1px solid #555;
+    margin: 0 15px;
+    padding: 20px 30px;
+}
+.card h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#contact {
+    margin-bottom: 230px;
+}
+.contact-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+}
+input, textarea {
+    width: 40%;
+    font-size: 23px;
+    margin-bottom: 18px;
+    padding: 3px 12px;
+}
+input, textarea, button {
+    border-radius: 5px;
+}
+textarea {
+    width: 40%;
+}
+
+.plan-name {
+    filter: drop-shadow(10px 10px 5px #fff33f);
+}
