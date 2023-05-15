@@ -14,7 +14,6 @@
 <body>
     <?php include('navbar.php'); ?>
     <main role="main" class="container">
-    <!-- <main role="main" class="container" style="padding:60px 15px"> -->
         <div>
             <h3>連絡事項</h3>
             <?php
