@@ -1,4 +1,5 @@
 <?php
+    include './include/login.php';
     $msg = null;
     $alert = null;
 

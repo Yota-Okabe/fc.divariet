@@ -1,4 +1,5 @@
 <?php 
+    include './include/login.php';
     $fp = fopen("info.txt", "r");
 ?>
 
