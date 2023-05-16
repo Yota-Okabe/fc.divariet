@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="./home.php">
         <img src="./parts/logo2.png" alt="" width="45" height="36" class="d-inline-block align-text-top">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -25,9 +25,9 @@
                         ログイン / ログアウト
                     </a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="#">login</a></li>
+                    <li><a class="dropdown-item" href="login.php">login</a></li>
                     <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="#">logout</a></li>
+                    <li><a class="dropdown-item" href="logout.php">logout</a></li>
                 </ul>
                 </li>
             </ul>

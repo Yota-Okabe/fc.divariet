@@ -1,5 +1,5 @@
 <?php 
-    $num = 5;
+    include './include/login.php';
 
 // クッキーを読み込み、フォームに名前をセットする
     if (isset($_COOKIE['name'])) {
@@ -7,6 +7,8 @@
     }else {
         $name = "";
     }
+
+    $num = 5;
     
     $dsn = 'mysql:dbname=fc.divariet;host=localhost';
     $user = 'root';
@@ -43,7 +45,6 @@
 <body>
     <?php include('navbar.php'); ?>
     <main role="main" class="container">
-    <!-- <main role="main" class="container" style="padding:60px 15px"> -->
         <div>
             <h3>試合レポート</h3>
             <form action="write.php" method="post">

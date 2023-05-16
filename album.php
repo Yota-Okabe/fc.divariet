@@ -1,4 +1,5 @@
 <?php
+    include './include/login.php';
     $images = array();
     $num = 4;
     if ($handle = opendir('./img')) {
@@ -24,7 +25,6 @@
 <body>
     <?php include('navbar.php'); ?>
     <main role="main" class="container">
-    <!-- <main role="main" class="container" style="padding:60px 15px"> -->
         <div>
             <h3>アルバム</h3>
             <?php
@@ -48,7 +48,6 @@
                         echo '      <a href="./img/'.$img.'" target="_blank"><img src="./img/'.$img.'"class="img-fluid"></a>';
                         echo '  </div>';
                         echo '</div>';
-                        // var_dump($img);
                     }
                     echo '</div>';
                     
