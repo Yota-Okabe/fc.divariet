@@ -1,5 +1,12 @@
 <?php 
     $num = 5;
+
+// クッキーを読み込み、フォームに名前をセットする
+    if (isset($_COOKIE['name'])) {
+        $name = $_COOKIE['name'];
+    }else {
+        $name = "";
+    }
     
     $dsn = 'mysql:dbname=fc.divariet;host=localhost';
     $user = 'root';
