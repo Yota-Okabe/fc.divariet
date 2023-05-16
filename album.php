@@ -19,14 +19,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>アルバム</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/login-user.css">
+    <title>アルバム</title>
 </head>
 <body>
     <?php include('navbar.php'); ?>
     <main role="main" class="container">
         <div>
-            <h3>アルバム</h3>
+            <div class="login-user">
+                <h3>アルバム</h3>
+                <a>（ログインユーザ：<?php echo $_SESSION['name'] ?>）</a>
+            </div>
             <?php
                 if (count($images) > 0) {
                     echo '<div class="row">';

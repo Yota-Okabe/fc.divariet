@@ -9,26 +9,30 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="info.php">お知らせ</a>
+                    <a class="nav-link" aria-current="page" href="info.php">連絡事項</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="upload.php">画像アップロード</a>
+                    <a class="nav-link" href="bbs.php">掲示板</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="album.php">アルバム</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="bbs.php">掲示板</a>
+                    <a class="nav-link" href="upload.php">画像アップロード</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         ログイン / ログアウト
                     </a>
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="login.php">login</a></li>
-                    <li><hr class="dropdown-divider"></li>
-                    <li><a class="dropdown-item" href="logout.php">logout</a></li>
-                </ul>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a class="dropdown-item" href="login.php">login</a>
+                        </li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li>
+                            <a class="dropdown-item" href="logout.php">logout</a>
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </div>
