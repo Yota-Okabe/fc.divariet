@@ -15,11 +15,13 @@
         exit();
     }
 
+// 削除機能passwordチェック（数字かつ4文字）
     if (!preg_match("/^[0-9]{4}$/", $pass)) {
         exit();
     }
 
-    setcookie('name', $name, time() + 40*60*24*30);
+// 名前をクッキーに
+    setcookie('name', $name, time() + 60*60*24*30);
 
     $dsn = 'mysql:dbname=fc.divariet;host=localhost';
     $user = 'root';
