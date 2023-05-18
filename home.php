@@ -37,14 +37,22 @@
                 </div>
                 <div class="contents-right">
                     <h2>2022.11.13 『7年越しの思い "3部昇格"』</h2>
-                    <p>2022東京都社会人サッカー4部5ブロック、悲願の優勝！！<br>
-                    優勝には14点差以上での勝利が必要なDivariet。
-                    試合前から個人の仕事/試合開催に向けた調整ドラマの連続で、なんとか無事試合開催&参加にこじつけました。<br>
-                    数的優位を祈りながら雨の中グラウンドに向かうも、対戦相手はGK複数人も駆使し同数である事が判明。それでも、ここまで可能性を繋いだチームの勢いは止まりません。<br>
-                    開始4,5,7分と良いペースで見事な得点を重ねますが、次第に相手にボールを握られる場面も散見されはじめます。更に3点を追加しますが、直後にはまさかの失点…<br>
-                    ハーフタイムを迎えた時点で得点ペースとしては必要なアベレージより2点ビハインドの苦しい局面を迎えます。<br>
+                    <p>優勝には14点差以上での勝利が必要なDivariet。<br>
+                    開始4,5,7分と良いペースで見事な得点を重ねますが、ハーフタイムを迎えた時点で得点ペースとしては必要なアベレージより2点ビハインドの苦しい局面を迎えます。<br>
                     それでも、今年のチームはよく我慢し、ポジティブな声も出るようになりました。後半に入ると更に攻勢を強め、小野/井口の2トップを中心にラスト10分までにリーチをかける8点を積み上げると、68分、井口がエリア内角度のないところから左足を振り抜くと逆サイドネットに決まり15点目！！更に田原悠がだめ押しの得点を無人のゴールに流し込み決定的な16点目。試合をそのまま締め、参入7年目で悲願の優勝を果たしました！<br>
                     来シーズンからはカテゴリをあげて、新たな挑戦です！<br>
+                </div>
+            </div>
+            <div class="about-contents">
+                <div class="contents-left">
+                    <h2>メンバー募集中</h2>
+                    <p>我々のチーム理念は「多様性」です。<br>
+                    どのようなバックグラウンドをお持ちの方でも受け入れる体制は整っております！<br>
+                    この組織があなたにとって過ごしやすい環境かどうか、練習試合などに参加して自分で確かめてみてくださいね。<br>
+                    Facebookより気軽にご連絡ください！共に2部昇格を目指しましょう！
+                </div>
+                <div class="contents-right">
+                    <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffc.divariet%2Fposts%2Fpfbid0299GUHP3zr5qKAHmkokSZanVN33fZfiGDAr2M3FTme2VqNCUSHR9wuDLq9dkEXZBql&show_text=true&width=500" width="500" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
                 </div>
             </div>
         </section>

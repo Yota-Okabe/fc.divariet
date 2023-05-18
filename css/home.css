@@ -62,6 +62,13 @@ p {
 .contents-right h2 {
     margin-bottom: 30px;
 }
+.contents-left h2 {
+    margin-bottom: 30px;
+    filter: drop-shadow(10px 10px 5px #fff33f);
+}
+.contents-left {
+    margin-right: 50px;
+}
 .cards {
     margin-top: 70px;
     display: flex;
